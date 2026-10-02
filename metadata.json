@@ -1,0 +1,6 @@
+{
+  "name": "Jeju Taste - 제주 한식 맛집 큐레이션",
+  "description": "제주 현지 한식 맛집 5곳의 지역, 대표 메뉴, 영업시간, 캐치테이블 예약 가능 여부를 제공하는 인터랙티브 가이드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
